@@ -28,13 +28,14 @@ A versatile Sudoku solver and game implementation available in both web and C++ 
 ## Getting Started
 
 ### Web Version
-1. Clone the repository
+1. Clone the repository 
+   git clone https://github.com/Priyanshusaini01/Sudoku.git
 2. Install dependencies:
-   ```bash
+    
    npm install
    ```
 3. Start the server:
-   ```bash
+  
    npm start
    ```
 4. Open your browser and navigate to `http://localhost:3000`
